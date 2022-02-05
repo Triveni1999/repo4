@@ -52,7 +52,7 @@ body{
 
 }
 .time_hours, .time_mins, .time_secs{
-    background: url(./Assets/timeline.svg.svg);
+    background: url(./timeline.svg.svg);
     width: 80px;
     height: 90px;
     align-self:center;
@@ -80,7 +80,7 @@ body{
 }
 
 .am{
-    background: url(./Assets/AM_svg.svg.svg);
+    background: url(./AM_svg.svg.svg);
     width: 80px;
     height: 90px;
     border-radius: 2px;
@@ -161,14 +161,14 @@ body{
 
 }
 .main1{
-    background: transparent url('./Assets/wake_up.svg.svg') 0% 0% no-repeat padding-box;
+    background: transparent url('./wake_up.svg.svg') 0% 0% no-repeat padding-box;
     opacity: 1;
     position: relative;
     left:25px;
     margin: 15px 0px 0px 0px;
 }
 .main2{
-    background: transparent url('./Assets/lunch_time.svg.svg') 0% 0% no-repeat padding-box;
+    background: transparent url('./lunch_time.svg.svg') 0% 0% no-repeat padding-box;
     opacity: 1;
     position: relative;
     left:25px;
@@ -176,7 +176,7 @@ body{
 
 }
 .main3{
-    background: transparent url('./Assets/nap_time.svg.svg') 0% 0% no-repeat padding-box;
+    background: transparent url('./nap_time.svg.svg') 0% 0% no-repeat padding-box;
     opacity: 1;
     position: relative;
     left:25px;
@@ -184,7 +184,7 @@ body{
 
 }
 .main4{
-    background: transparent url('./Assets/nap_time.svg.svg') 0% 0% no-repeat padding-box;
+    background: transparent url('./nap_time.svg.svg') 0% 0% no-repeat padding-box;
     opacity: 1;
     position: relative;
     left:25px;
@@ -307,7 +307,7 @@ button:hover:before {
     grid-column: 3/ 4;
     width: 536px;
     height: 341px;
-    background: url(./Assets/Group\ 5183-1.svg.svg);
+    background: url(./Group\ 5183-1.svg.svg);
     position: relative;
     top: 30px;
 }
@@ -519,7 +519,7 @@ button:hover:before {
         grid-column: 1/ 3;
         width: 90vw;
         height: 50vh;
-        background: url(./Assets/Group\ 5183-1.svg.svg) center no-repeat;
+        background: url(./Group\ 5183-1.svg.svg) center no-repeat;
         position: relative;
         top: 140px;
     }
